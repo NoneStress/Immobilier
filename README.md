@@ -38,7 +38,7 @@ Développer un modèle de machine learning capable de prédire le prix d’un ap
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/jeuDonnee_commente.ipynb
+jupyter notebook notebooks/prediction.ipynb
 ```
 
 ## 🧪 Auteurs
